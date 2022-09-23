@@ -1,0 +1,1620 @@
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QR.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+D:\PRO\Tinh\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QR.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+D:\Thuc tap\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+D:\Thuc tap\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+D:\Thuc tap\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QR.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\Temple\Hieu\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\duong\Downloads\Temple\New\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+D:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Desktop\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\Cộng Tác Viên\thang\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\Temple\mỚI nHẤT\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+E:\1\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+E:\2\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem2\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\duong\Downloads\New folder\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\CongTacVien\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+D:\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csprojResolveAssemblyReference.cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\hieub\Downloads\QuanLyMauKiemNghiem4\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+D:\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe.config
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.exe
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\QuanLyMauKiemNghiem.pdb
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.pdb
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.pdb
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\zxing.presentation.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.PrintRibbonControllerResources.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Properties.Resources.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpQRCode.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ__QC.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmrpXuatKQ.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.frmXuatPYCPT_NTP.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPhieuYCPT.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpPYCPT_NTP.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpt_QR.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.rpXuatKQ_QC.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.Report.subPhuLuc.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmConnectDB.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmDoiMatKhau.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmMain.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemChiTieu.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemHopDong.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.frmThemKhachHang.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.Login.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.QRCode.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.VAT.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.View.WaitForm1.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.XRDesignRibbonControllerResources.resources
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.csproj.GenerateResource.Cache
+C:\Users\tuan\Downloads\Project+App\QuanLyMauKiemNghiem\QuanLyMauKiemNghiem\obj\Debug\QuanLyMauKiemNghiem.exe.licenses
